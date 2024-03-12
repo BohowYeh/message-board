@@ -14,6 +14,9 @@ https://github.com/BohowYeh/message-board/assets/151061264/f72544f8-8ee6-4cc2-94
 
 ↑↑↑ admin管理頁面，登錄後可以管理留言
 
+<img src="https://github.com/BohowYeh/message-board/assets/151061264/1d056747-20f6-438b-9d9f-ba2bc182d810" alt="IMG_3373" width="500" height="250">
+<img src="https://github.com/BohowYeh/message-board/assets/151061264/5ed6fe65-596b-41de-8556-d13d07e0c51e" alt="IMG_3373" width="500" height="250">
+↑↑↑ 資料庫保存各項數據
 
 
 
